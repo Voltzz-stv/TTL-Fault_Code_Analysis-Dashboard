@@ -1,0 +1,13 @@
+.header {
+  border-radius: 10px;
+  margin: 0.5rem 0.5rem 1rem;
+  display: flex;
+  height: 5rem;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.24);
+}
+
+h2 {
+  color: #1e24d4;
+}
